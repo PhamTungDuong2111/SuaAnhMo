@@ -1,0 +1,11 @@
+{
+  "appId": "com.enhancefox.photoenhancer",
+  "appName": "EnhanceFox AI",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true
+  }
+}
